@@ -173,7 +173,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
+                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
+                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
+                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md"
+                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md"
               }
             }
           }
@@ -309,15 +309,15 @@
   },
   "active": "4e1ea96d547349e6",
   "lastOpenFiles": [
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/Confirmation.md",
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Microcopy.md",
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Icons.md",
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Esquemas de color.md",
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Dark Mode.md",
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Branding.md",
-    "Guías/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Animations.md",
-    "Guías/Estandarización de nombres archivo de Figma según el tipo de proyecto.md",
-    "Guías/Estandarización de nombres de repositorios en Figma.md",
-    "Guías/Guía de recursos de marca.md"
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/Confirmation.md",
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Microcopy.md",
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Icons.md",
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Esquemas de color.md",
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Dark Mode.md",
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Branding.md",
+    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Animations.md",
+    "guides/Estandarización de nombres archivo de Figma según el tipo de proyecto.md",
+    "guides/Estandarización de nombres de repositorios en Figma.md",
+    "guides/Guía de recursos de marca.md"
   ]
 }
