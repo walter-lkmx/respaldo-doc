@@ -1,23 +1,29 @@
-name: Push generated webpage to another repository
+name: CI
+
 on:
   push:
-    branches:
-      - '0.3'
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
 jobs:
-  push-files:
+  build:
     runs-on: ubuntu-latest
+    container: pandoc/latex    # "ubuntu" is a more generic container
+                               # using "pandoc/latex" because of dependencies
+                               # used in the specific "build.sh"
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: Clone remote repository
-      run: |
-        git clone https://github.com/walter-lkmx/respaldo-doc.git --branch 0.3
-    - name: Push files to another repository
-      uses: nkoppel/push-files-to-another-repository@1.1.0
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.COPY_REPO }}
-        SOURCE_FILES: 'respaldo-doc/pages/'
-        DESTINATION_USERNAME: 'walter-lkmx'
-        DESTINATION_REPOSITORY: 'lkmx-design-knowledge'
-        DESTINATION_DIRECTORY: 'pages/'
-        COMMIT_EMAIL: 'walter.hurtado@lkmx.io'
+      - uses: actions/checkout@v2
+      - name: creates output
+        run:  sh ./build.sh # some command from your repository that creates
+                            # output to "source-directory" ("output" in the example)
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.COPY_REPO }}
+        with:
+          source-directory: 'pages'
+          destination-github-username: 'walter-lkmx'
+          destination-repository-name: 'lkmx-design-knowledge/pages'
+          user-email: walter.hurtado@lkmx.io
+          target-branch: main
