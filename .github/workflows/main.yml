@@ -1,10 +1,23 @@
-- name: Push generated webpage to another repository
-  uses: nkoppel/push-files-to-another-repository@1.1.0
-  env:
-    API_TOKEN_GITHUB: ${{ secrets.COPY_REPO }}
-  with:
-    source-files: 'pages/'
-    destination-username: 'walter-lkmx'
-    destination-repository: 'https://github.com/walter-lkmx/lkmx-design-knowledge'
-    destination-directory: 'pages/'
-    commit-email: 'walter.hurtado@lkmx.io'
+name: Push generated webpage to another repository
+on:
+  push:
+    branches:
+      - '0.3'
+jobs:
+  push-files:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Clone remote repository
+      run: |
+        git clone https://github.com/walter-lkmx/respaldo-doc.git --branch 0.3
+    - name: Push files to another repository
+      uses: nkoppel/push-files-to-another-repository@1.1.0
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.COPY_REPO }}
+        SOURCE_FILES: 'respaldo-doc/pages/'
+        DESTINATION_USERNAME: 'walter-lkmx'
+        DESTINATION_REPOSITORY: 'lkmx-design-knowledge'
+        DESTINATION_DIRECTORY: 'pages/'
+        COMMIT_EMAIL: 'walter.hurtado@lkmx.io'
