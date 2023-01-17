@@ -1,0 +1,10 @@
+- name: Push generated webpage to another repository
+  uses: nkoppel/push-files-to-another-repository@1.1.0
+  env:
+    API_TOKEN_GITHUB: ${{ secrets.COPY_REPO }}
+  with:
+    source-files: 'pages/'
+    destination-username: 'walter-lkmx'
+    destination-repository: 'https://github.com/walter-lkmx/lkmx-design-knowledge'
+    destination-directory: 'pages/'
+    commit-email: 'walter.hurtado@lkmx.io'
