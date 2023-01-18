@@ -22,5 +22,6 @@ jobs:
           source-directory: 'pages'
           destination-github-username: 'walter-lkmx'
           destination-repository-name: 'lkmx-design-knowledge'
+          target-directory: 'pages'
           user-email: walter.hurtado@lkmx.io
           target-branch: main
