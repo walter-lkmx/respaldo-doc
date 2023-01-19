@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md"
+                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8260318208e08397",
+  "active": "4e1ea96d547349e6",
   "lastOpenFiles": [
+    "guides/estandarización-de-nombres-archivo-de-figma-según-el-tipo-de-proyecto.md",
+    "pages/guides/Estandarización de nombres archivo de Figma según el tipo de proyecto.md",
+    "guides/plantillas-de-correo-solicitud-recursos-de-marca.md",
+    "guides/gdii/estilo/tipografía.md",
     "img/image-20220926-192205.png",
     "img/image-20220926-192403.png",
     "guides/guía-de-recursos-de-marca.md",
-    "guides/estandarización-de-nombres-archivo-de-figma-según-el-tipo-de-proyecto.md",
     "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
-    "guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "guides/gdii-guía-de-diseño-e-interacción-de-interfaces/ui/tooltip.md",
-    "guides/gdii-guía-de-diseño-e-interacción-de-interfaces/ui/tags.md",
-    "guides/gdii-guía-de-diseño-e-interacción-de-interfaces/ui/tabs.md",
-    "guides/gdii-guía-de-diseño-e-interacción-de-interfaces/ui/tables.md"
+    "guides/gdii/ui/tooltip.md",
+    "guides/gdii/ui/tags.md"
   ]
 }
