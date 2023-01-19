@@ -8,179 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39d468b8cb8e920f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bc8bcf821ffc23f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a28c50500eeb4059",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e46c35abb8aa3d18",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f555d1918f1b86ce",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e3316b5dc5c2470",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bf70e9240cb2d256",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5951e466f3b4d14b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2ea05640f37166b5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "72b95f3a306589f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bd80b11dae2449d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba8e20377f621cc2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e393ec930199662",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9cfec8e25cfab906",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eda3c6bf86045910",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ecc3b5fbb6e315d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "91c6e5764ad5b60a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f2afefe07514951",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8c1c7284181c55d9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd83a23d09670cf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8260318208e08397",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/File Handling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -309,15 +140,15 @@
   },
   "active": "4e1ea96d547349e6",
   "lastOpenFiles": [
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Patrones/Confirmation.md",
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Microcopy.md",
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Icons.md",
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Esquemas de color.md",
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Dark Mode.md",
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Branding.md",
-    "guides/GDII (Guía de Diseño e Interacción de Interfaces)/Estilo/Animations.md",
-    "guides/Estandarización de nombres archivo de Figma según el tipo de proyecto.md",
-    "guides/Estandarización de nombres de repositorios en Figma.md",
-    "guides/Guía de recursos de marca.md"
+    "guides/estandarización-de-nombres-archivo-de-figma-según-el-tipo-de-proyecto.md",
+    "pages/guides/Estandarización de nombres archivo de Figma según el tipo de proyecto.md",
+    "guides/plantillas-de-correo-solicitud-recursos-de-marca.md",
+    "guides/gdii/estilo/tipografía.md",
+    "img/image-20220926-192205.png",
+    "img/image-20220926-192403.png",
+    "guides/guía-de-recursos-de-marca.md",
+    "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
+    "guides/gdii/ui/tooltip.md",
+    "guides/gdii/ui/tags.md"
   ]
 }
