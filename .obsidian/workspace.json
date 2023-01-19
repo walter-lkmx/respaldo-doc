@@ -11,12 +11,8 @@
             "id": "8260318208e08397",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "guides/estandarización-de-nombres-de-repositorios-en-figma.md"
-              }
+              "state": {}
             }
           }
         ]
