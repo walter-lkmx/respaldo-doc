@@ -1,3 +1,5 @@
+# Dark Mode
+
 En modo oscuro o _dark mode_, la aplicación utiliza una paleta de colores oscuros en sus componentes, y utiliza colores más vibrantes para resaltar los controles y ciertas partes del contenido.
 
 ## Mantén la configuración del dispositivo
@@ -18,6 +20,6 @@ Evita utilizar sombras en componentes que utilizan el color primario o secundari
 
 Referencias
 
-[![](https://m2.material.io/static/assets/favicon.ico)Material Design](https://material.io/design/color/dark-theme.html#resources)
+Material Design (https://material.io/design/color/dark-theme.html#resources)
 
 [https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode "https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode")
