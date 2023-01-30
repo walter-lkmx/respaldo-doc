@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md"
+                "file": "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "c6c3c037f9a0ff9f",
   "lastOpenFiles": [
-    "pages/guides/guia-de-recursos-de-marca.md",
     "pages/guides/estandarizacion-de-nombres-de-repositorios-en-figma.md",
-    "pages/proceso-diseno.md",
+    "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
     "pages/guides/estandarizacion-de-nombres-archivo-de-figma-según-el-tipo-de-proyecto.md",
-    "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "pages/inicializar-proyecto.md",
+    "herramientas.md",
     "pages/transferir-proyecto.md",
-    "pages/guides/gdii/ui/tooltip.md",
-    "pages/guides/gdii/ui/tags.md",
-    "pages/guides/gdii/ui/tabs.md"
+    "pages/proceso-diseno.md",
+    "pages/inicializar-proyecto.md",
+    "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+    "pages/guides/guia-de-recursos-de-marca.md",
+    "pages/guides/gdii/ui/tooltip.md"
   ]
 }
