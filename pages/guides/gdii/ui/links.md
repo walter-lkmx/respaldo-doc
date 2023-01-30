@@ -1,3 +1,5 @@
+# Links
+
 Los links son elementos que llevan al usuario a otra ruta tras hacer un click, usualmente se colocan dentro o inmediatamente después de una oración.
 
 ## Claro y predecible
@@ -14,8 +16,5 @@ Aquellos links que no se encuentran contenidos dentro de una oración completa, 
 
 ---
 
-## Component ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
-
+## Component
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2449%3A3016)

@@ -11,11 +11,28 @@
             "id": "8260318208e08397",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/transferir-proyecto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6c3c037f9a0ff9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/gdii/ui/switches.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/guides/gdii/ui/switches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/guides/gdii/ui/switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/guides/gdii/ui/switches.md"
+              }
             }
           }
         ]
@@ -138,17 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e1ea96d547349e6",
+  "active": "c6c3c037f9a0ff9f",
   "lastOpenFiles": [
-    "guides/estandarización-de-nombres-archivo-de-figma-según-el-tipo-de-proyecto.md",
-    "pages/guides/Estandarización de nombres archivo de Figma según el tipo de proyecto.md",
-    "guides/plantillas-de-correo-solicitud-recursos-de-marca.md",
-    "guides/gdii/estilo/tipografía.md",
-    "img/image-20220926-192205.png",
-    "img/image-20220926-192403.png",
-    "guides/guía-de-recursos-de-marca.md",
-    "guides/estandarización-de-nombres-de-repositorios-en-figma.md",
-    "guides/gdii/ui/tooltip.md",
-    "guides/gdii/ui/tags.md"
+    "herramientas.md",
+    "pages/guides/gdii/ui/links.md",
+    "pages/guides/gdii/ui/switches.md",
+    "pages/guides/gdii/estilo/icons.md",
+    "pages/guides/gdii/estilo/esquemas-de-color.md",
+    "pages/guides/gdii/estilo/images.md",
+    "pages/guides/gdii/estilo/branding.md",
+    "pages/guides/gdii/estilo/animations.md",
+    "pages/guides/gdii/estilo/tipografía.md",
+    "pages/guides/gdii/estilo/microcopy.md"
   ]
 }
