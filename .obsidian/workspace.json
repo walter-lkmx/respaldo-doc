@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/gdii/ui/switches.md",
+                "file": "pages/guides/gdii/patrones/states.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guides/gdii/ui/switches.md",
+                "file": "pages/guides/gdii/patrones/states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guides/gdii/ui/switches.md",
+                "file": "pages/guides/gdii/patrones/states.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guides/gdii/ui/switches.md"
+                "file": "pages/guides/gdii/patrones/states.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "c6c3c037f9a0ff9f",
   "lastOpenFiles": [
-    "herramientas.md",
-    "pages/guides/gdii/ui/links.md",
     "pages/guides/gdii/ui/switches.md",
+    "pages/guides/gdii/patrones/states.md",
+    "pages/guides/gdii/ui/links.md",
+    "herramientas.md",
     "pages/guides/gdii/estilo/icons.md",
     "pages/guides/gdii/estilo/esquemas-de-color.md",
     "pages/guides/gdii/estilo/images.md",
     "pages/guides/gdii/estilo/branding.md",
     "pages/guides/gdii/estilo/animations.md",
-    "pages/guides/gdii/estilo/tipografía.md",
-    "pages/guides/gdii/estilo/microcopy.md"
+    "pages/guides/gdii/estilo/tipografía.md"
   ]
 }
