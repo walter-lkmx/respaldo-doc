@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/transferir-proyecto.md",
+                "file": "pages/guides/gdii/ui/navegacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/transferir-proyecto.md",
+                "file": "pages/guides/gdii/ui/navegacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/transferir-proyecto.md",
+                "file": "pages/guides/gdii/ui/navegacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/transferir-proyecto.md"
+                "file": "pages/guides/gdii/ui/navegacion.md"
               }
             }
           }
@@ -158,17 +158,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8260318208e08397",
+  "active": "4e1ea96d547349e6",
   "lastOpenFiles": [
+    "pages/guides/gdii/estilo/tipografia.md",
+    "pages/transferir-proyecto.md",
     "pages/inicializar-proyecto.md",
     "pages/proceso-diseno.md",
     "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
     "pages/guides/gdii/patrones/video-player.md",
     "pages/guides/gdii/patrones/states.md",
-    "pages/transferir-proyecto.md",
     "pages/guides/gdii/ui/alerts.md",
     "pages/guides/gdii/ui/accordion.md",
-    "pages/guides/gdii/ui/forms/select.md",
-    "pages/guides/gdii/ui/forms/search-bar.md"
+    "pages/guides/gdii/ui/forms/select.md"
   ]
 }
