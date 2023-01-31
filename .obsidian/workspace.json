@@ -13,7 +13,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/gdii/ui/notifications-center.md",
+                "file": "pages/guides/guia-de-recursos-de-marca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20c4afb95a410102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "584a68a48eae52f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b514f023ed2ef92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena en-el-mapa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec67419d0238d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-inspeccionar-el-css-de-los-elementos-de-ui.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485eb28fc6f364d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b162224e01376b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a47e56d670d213c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -97,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guides/gdii/ui/notifications-center.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guides/gdii/ui/notifications-center.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guides/gdii/ui/notifications-center.md"
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md"
               }
             }
           }
@@ -158,17 +243,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8260318208e08397",
+  "active": "a47e56d670d213c6",
   "lastOpenFiles": [
-    "pages/guides/gdii/patrones/file-handling.md",
-    "pages/guides/gdii/patrones/states.md",
-    "pages/guides/gdii/ui/switches.md",
-    "pages/guides/gdii/patrones/video-player.md",
-    "pages/guides/gdii/patrones/onboarding.md",
-    "pages/guides/gdii/patrones/gestures.md",
-    "pages/guides/gdii/patrones/empty-state.md",
-    "pages/guides/gdii/ui/carousels.md",
-    "pages/guides/gdii/ui/navegacion.md",
-    "pages/guides/gdii/estilo/tipografia.md"
+    "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-inspeccionar-el-css-de-los-elementos-de-ui.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena en-el-mapa.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+    "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
+    "pages/inicializar-proyecto.md",
+    "pages/guides/guia-de-recursos-de-marca.md",
+    "pages/guides/como-exportar-una-imagen-en-distintos-formatos/Untitled.md"
   ]
 }
