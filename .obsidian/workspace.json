@@ -47,12 +47,8 @@
             "id": "0b514f023ed2ef92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena en-el-mapa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md"
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md"
               }
             }
           }
@@ -243,17 +239,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a47e56d670d213c6",
+  "active": "4e1ea96d547349e6",
   "lastOpenFiles": [
+    "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
     "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
     "pages/guides/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
     "pages/guides/guia-de-mapa-de-aplicacion/como-inspeccionar-el-css-de-los-elementos-de-ui.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena en-el-mapa.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md",
     "pages/guides/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
     "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
     "pages/guides/estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
     "pages/inicializar-proyecto.md",
-    "pages/guides/guia-de-recursos-de-marca.md",
-    "pages/guides/como-exportar-una-imagen-en-distintos-formatos/Untitled.md"
+    "pages/guides/guia-de-recursos-de-marca.md"
   ]
 }
