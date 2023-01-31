@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/gdii/ui/navegacion.md",
+                "file": "pages/guides/gdii/ui/notifications-center.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guides/gdii/ui/navegacion.md",
+                "file": "pages/guides/gdii/ui/notifications-center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guides/gdii/ui/navegacion.md",
+                "file": "pages/guides/gdii/ui/notifications-center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guides/gdii/ui/navegacion.md"
+                "file": "pages/guides/gdii/ui/notifications-center.md"
               }
             }
           }
@@ -158,17 +158,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e1ea96d547349e6",
+  "active": "8260318208e08397",
   "lastOpenFiles": [
-    "pages/guides/gdii/estilo/tipografia.md",
-    "pages/transferir-proyecto.md",
-    "pages/inicializar-proyecto.md",
-    "pages/proceso-diseno.md",
-    "pages/guides/plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "pages/guides/gdii/patrones/video-player.md",
+    "pages/guides/gdii/patrones/file-handling.md",
     "pages/guides/gdii/patrones/states.md",
-    "pages/guides/gdii/ui/alerts.md",
-    "pages/guides/gdii/ui/accordion.md",
-    "pages/guides/gdii/ui/forms/select.md"
+    "pages/guides/gdii/ui/switches.md",
+    "pages/guides/gdii/patrones/video-player.md",
+    "pages/guides/gdii/patrones/onboarding.md",
+    "pages/guides/gdii/patrones/gestures.md",
+    "pages/guides/gdii/patrones/empty-state.md",
+    "pages/guides/gdii/ui/carousels.md",
+    "pages/guides/gdii/ui/navegacion.md",
+    "pages/guides/gdii/estilo/tipografia.md"
   ]
 }
