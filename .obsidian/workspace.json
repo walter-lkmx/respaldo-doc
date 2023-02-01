@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/kit-de-herramientas.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/kit-de-herramientas.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/kit-de-herramientas.md",
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/kit-de-herramientas.md"
+                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md"
               }
             }
           }
@@ -239,8 +239,8 @@
   },
   "active": "e9aab6388660b4f8",
   "lastOpenFiles": [
-    "pages/guides/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
     "pages/kit-de-herramientas.md",
+    "pages/guides/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
     "pages/guides/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
     "pages/guides/guia-de-recursos-de-marca.md",
     "pages/guides/guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
