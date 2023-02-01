@@ -1,7 +1,7 @@
 import React from 'react';
 import { DocsThemeConfig } from 'nextra-theme-docs';
 import Image from 'next/image'
-import logo from './img/logo.svg';
+import logo from './img/design-logo.svg';
 
 const primaryHue = 336 
 
