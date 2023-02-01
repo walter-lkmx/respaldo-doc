@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/productivity-and-design-tools/productivity-and-design-tools.md",
+                "file": "pages/kit-de-herramientas.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/productivity-and-design-tools/productivity-and-design-tools.md",
+                "file": "pages/kit-de-herramientas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/productivity-and-design-tools/productivity-and-design-tools.md",
+                "file": "pages/kit-de-herramientas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/productivity-and-design-tools/productivity-and-design-tools.md"
+                "file": "pages/kit-de-herramientas.md"
               }
             }
           }
@@ -239,15 +239,15 @@
   },
   "active": "e9aab6388660b4f8",
   "lastOpenFiles": [
-    "pages/index.md",
-    "pages/inicializar-proyecto.md",
-    "pages/productivity-and-design-tools/productivity-and-design-tools.md",
+    "pages/guides/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
+    "pages/kit-de-herramientas.md",
+    "pages/guides/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+    "pages/guides/guia-de-recursos-de-marca.md",
+    "pages/guides/guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
+    "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
+    "pages/proceso-diseno.md",
     "pages/guides/gdii/estilo/icons.md",
-    "pages/guides/gdii/estilo/esquemas-de-color.md",
-    "pages/guides/gdii/estilo/dark-mode.md",
     "pages/guides/gdii/patrones/application-launch.md",
-    "pages/guides/gdii/patrones/confirmation.md",
-    "pages/guides/gdii/patrones/empty-state.md",
-    "pages/guides/gdii/patrones/onboarding.md"
+    "pages/guides/gdii/patrones/confirmation.md"
   ]
 }
