@@ -12,12 +12,7 @@ export default {
     light: primaryHue,
   },
   sidebar: {
-    titleComponent: ({ title, type }) => {
-      if (type === 'separator') {
-        return (
-          <div style={{ background: 'cyan', textAlign: 'center' }}>{title}</div>
-        );
-      }
+    titleComponent: ({ title }) => {
       if (title === 'Proceso Diseno') {
         return <>Proceso Diseño</>;
       }
