@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-diseno/solicitar-recursos-de-marca.md",
+                "file": "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-diseno/procesar-delta-tecnico.md",
+                "file": "pages/proceso-de-diseno/procesar-delta-tecnico.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-diseno/procesar-historia-de-usuario.md",
+                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-diseno/procesar-delta-de-vista.md",
+                "file": "pages/proceso-de-diseno/procesar-delta-de-vista.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,11 +201,11 @@
     "pages/proceso-diseno/transferir proyecto.md",
     "pages/kit-de-herramientas.md",
     "pages/index.md",
-    "pages/proceso-diseno/solicitar-recursos-de-marca.md",
-    "pages/proceso-diseno/procesar-delta-de-vista.md",
-    "pages/proceso-diseno/procesar-delta-tecnico.md",
-    "pages/proceso-diseno/inicializar-proyecto.md",
-    "pages/proceso-diseno/procesar-historia-de-usuario.md",
+    "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
+    "pages/proceso-de-diseno/procesar-delta-de-vista.md",
+    "pages/proceso-de-diseno/procesar-delta-tecnico.md",
+    "pages/proceso-de-diseno/inicializar-proyecto.md",
+    "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
     "pages/img/image-20220926-182339.png"
   ]
 }
