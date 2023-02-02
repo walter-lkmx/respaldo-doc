@@ -4,113 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "591d44afd1755449",
+        "id": "fdb70950420bb75b",
         "type": "tabs",
         "children": [
           {
-            "id": "8260318208e08397",
+            "id": "145418ea7278b72f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/guia-de-recursos-de-marca.md",
+                "file": "pages/proceso-diseno/solicitar-recursos-de-marca.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20c4afb95a410102",
+            "id": "16d4c13fc96046d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+                "file": "pages/proceso-diseno/procesar-delta-tecnico.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "584a68a48eae52f6",
+            "id": "fa9603ad975ac8f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
+                "file": "pages/proceso-diseno/procesar-historia-de-usuario.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b514f023ed2ef92",
+            "id": "fcbdc43227d95e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/proceso-diseno/procesar-delta-de-vista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28bf3625e448185a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fec67419d0238d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/guides/gdii/estilo/icons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9aab6388660b4f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "485eb28fc6f364d5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pages/img/export-img.gif"
-              }
-            }
-          },
-          {
-            "id": "b162224e01376b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6c3c037f9a0ff9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/transferir-proyecto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -237,17 +187,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e9aab6388660b4f8",
+  "active": "4e1ea96d547349e6",
   "lastOpenFiles": [
-    "pages/guides/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-inspeccionar-el-css-de-los-elementos-de-ui.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
-    "pages/guides/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md",
+    "pages/proceso-diseno/transferir proyecto.md",
+    "pages/transferir-proyecto.md",
     "pages/kit-de-herramientas.md",
-    "pages/guides/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md"
+    "pages/inicio.md",
+    "pages/proceso-diseno/solicitar-recursos-de-marca.md",
+    "pages/proceso-diseno/procesar-delta-de-vista.md",
+    "pages/proceso-diseno/procesar-delta-tecnico.md",
+    "pages/proceso-diseno/inicializar-proyecto.md",
+    "pages/proceso-diseno/procesar-historia-de-usuario.md",
+    "pages/img/image-20220926-182339.png"
   ]
 }
