@@ -42,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fcbdc43227d95e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/proceso-de-diseno/procesar-delta-de-vista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28bf3625e448185a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/proceso-de-diseno/inicializar-proyecto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/proceso-de-diseno/inicializar-proyecto.md",
+                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/proceso-de-diseno/inicializar-proyecto.md",
+                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/proceso-de-diseno/inicializar-proyecto.md"
+                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md"
               }
             }
           }
@@ -195,8 +171,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "28bf3625e448185a",
+  "active": "fa9603ad975ac8f2",
   "lastOpenFiles": [
+    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
+    "pages/proceso-de-diseno/inicializar-proyecto.md",
     "pages/kit-de-herramientas.md",
     "pages/index.md",
     "pages/transferir-proyecto.md",
@@ -204,8 +182,6 @@
     "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
     "pages/proceso-de-diseno/procesar-delta-de-vista.md",
     "pages/proceso-de-diseno/procesar-delta-tecnico.md",
-    "pages/proceso-de-diseno/inicializar-proyecto.md",
-    "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
-    "pages/img/image-20220926-182339.png"
+    "pages/proceso-de-diseno/procesar-historia-de-usuario.md"
   ]
 }
