@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/proceso-de-diseno/inicializar-proyecto.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/proceso-de-diseno/inicializar-proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/proceso-de-diseno/inicializar-proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "pages/proceso-de-diseno/inicializar-proyecto.md"
               }
             }
           }
@@ -195,12 +195,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e1ea96d547349e6",
+  "active": "28bf3625e448185a",
   "lastOpenFiles": [
-    "pages/transferir-proyecto.md",
-    "pages/proceso-diseno/transferir proyecto.md",
     "pages/kit-de-herramientas.md",
     "pages/index.md",
+    "pages/transferir-proyecto.md",
+    "pages/proceso-diseno/transferir proyecto.md",
     "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
     "pages/proceso-de-diseno/procesar-delta-de-vista.md",
     "pages/proceso-de-diseno/procesar-delta-tecnico.md",
