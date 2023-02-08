@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fdb70950420bb75b",
+        "id": "e9d2b9234d452cb8",
         "type": "tabs",
         "children": [
           {
-            "id": "145418ea7278b72f",
+            "id": "80a0b39fa6d7ff62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16d4c13fc96046d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/proceso-de-diseno/procesar-delta-tecnico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa9603ad975ac8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/proceso-de-diseno/procesar-historia-de-usuario.md"
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fa9603ad975ac8f2",
+  "active": "80a0b39fa6d7ff62",
   "lastOpenFiles": [
+    "pages/img/try-4.gif",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
     "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
-    "pages/proceso-de-diseno/inicializar-proyecto.md",
-    "pages/kit-de-herramientas.md",
-    "pages/index.md",
-    "pages/transferir-proyecto.md",
-    "pages/proceso-diseno/transferir proyecto.md",
-    "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
-    "pages/proceso-de-diseno/procesar-delta-de-vista.md",
-    "pages/proceso-de-diseno/procesar-delta-tecnico.md",
-    "pages/proceso-de-diseno/procesar-historia-de-usuario.md"
+    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
+    "().md"
   ]
 }
