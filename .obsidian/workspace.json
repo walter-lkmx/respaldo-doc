@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md"
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "80a0b39fa6d7ff62",
   "lastOpenFiles": [
-    "pages/img/try-4.gif",
     "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
+    "pages/img/try-4.gif",
     "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
     "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
     "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
