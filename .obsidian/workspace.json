@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7481a9dd6951b322",
+        "id": "e9d2b9234d452cb8",
         "type": "tabs",
         "children": [
           {
-            "id": "ea171677d5e1c0b2",
+            "id": "80a0b39fa6d7ff62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md"
+                "file": "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ea171677d5e1c0b2",
+  "active": "80a0b39fa6d7ff62",
   "lastOpenFiles": [
-    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-el-nombre-de-una-escena-en-el-mapa.md",
-    "pages/index.md",
-    "pages/kit-de-herramientas.md",
-    "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "pages/proceso-de-diseno/inicializar-proyecto.md",
-    "().md",
-    "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
-    "pages/proceso-de-diseno/procesar-delta-tecnico.md",
-    "pages/proceso-de-diseno/procesar-delta-de-vista.md",
-    "pages/guias-de-diseno/guia-de-recursos-de-marca.md"
+    "pages/img/try-4.gif",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-buscar-un-page-en-el-mapa.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-exportar-una-imagen-en-distintos-formatos.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-navegar-entre-el-mapa.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
+    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
+    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto.md",
+    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
+    "().md"
   ]
 }
