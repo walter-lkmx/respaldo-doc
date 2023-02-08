@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md",
+                "file": "pages/guias-de-diseno/gdii/ui/forms/radio-buttons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md",
+                "file": "pages/guias-de-diseno/gdii/ui/forms/radio-buttons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md",
+                "file": "pages/guias-de-diseno/gdii/ui/forms/radio-buttons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md"
+                "file": "pages/guias-de-diseno/gdii/ui/forms/radio-buttons.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "80a0b39fa6d7ff62",
   "lastOpenFiles": [
-    "pages/kit-de-herramientas.md",
-    "pages/proceso-de-diseno/transferir-proyecto.md",
-    "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
+    "pages/proceso-de-diseno/inicializar-proyecto.md",
     "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
+    "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
+    "pages/proceso-de-diseno/transferir-proyecto.md",
+    "pages/kit-de-herramientas.md",
     "pages/proceso-de-diseno/procesar-delta-tecnico.md",
     "pages/proceso-de-diseno/procesar-delta-de-vista.md",
-    "pages/proceso-de-diseno/inicializar-proyecto.md",
     "pages/guias-de-diseno/gdii/ui/navegacion.md",
     "pages/guias-de-diseno/gdii/ui/links.md",
     "pages/guias-de-diseno/gdii/ui/hero.md"
