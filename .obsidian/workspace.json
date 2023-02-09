@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d2b9234d452cb8",
+        "id": "a25d70bda2ac42a0",
         "type": "tabs",
         "children": [
           {
-            "id": "80a0b39fa6d7ff62",
+            "id": "4f89f6a4e5da62d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md",
+                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md",
+                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md",
+                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/proceso-de-diseno/transferir-proyecto.md"
+                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "80a0b39fa6d7ff62",
+  "active": "4f89f6a4e5da62d3",
   "lastOpenFiles": [
+    "pages/guias-de-diseno/guia-de-buenas-practicas-para-construccion-del-mapa-de-aplicacion.md",
+    "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
+    "Untitled.md",
+    "pages/proceso-de-diseno/transferir-proyecto.md",
     "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
     "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
     "pages/proceso-de-diseno/procesar-delta-tecnico.md",
     "pages/proceso-de-diseno/procesar-delta-de-vista.md",
-    "pages/proceso-de-diseno/inicializar-proyecto.md",
-    "pages/guias-de-diseno/guia-de-recursos-de-marca.md",
-    "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-seleccionar-una-capa-especifica-en-el-mapa.md",
-    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa.md",
-    "pages/guias-de-diseno/guia-de-mapa-de-aplicacion/como-obtener-colores-en-distintos-formatos.md"
+    "pages/proceso-de-diseno/inicializar-proyecto.md"
   ]
 }
