@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+                "file": "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md"
+                "file": "pages/proceso-de-diseno/solicitar-recursos-de-marca.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "4f89f6a4e5da62d3",
   "lastOpenFiles": [
-    "pages/guias-de-diseno/guia-de-buenas-practicas-para-construccion-del-mapa-de-aplicacion.md",
-    "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
-    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
-    "Untitled.md",
+    "pages/proceso-de-diseno/inicializar-proyecto.md",
     "pages/proceso-de-diseno/transferir-proyecto.md",
     "pages/proceso-de-diseno/solicitar-recursos-de-marca.md",
+    "pages/guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca.md",
+    "pages/guias-de-diseno/guia-de-buenas-practicas-para-construccion-del-mapa-de-aplicacion.md",
+    "pages/guias-de-diseno/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma.md",
+    "Untitled.md",
     "pages/proceso-de-diseno/procesar-historia-de-usuario.md",
     "pages/proceso-de-diseno/procesar-delta-tecnico.md",
-    "pages/proceso-de-diseno/procesar-delta-de-vista.md",
-    "pages/proceso-de-diseno/inicializar-proyecto.md"
+    "pages/proceso-de-diseno/procesar-delta-de-vista.md"
   ]
 }
